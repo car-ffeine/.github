@@ -1,6 +1,8 @@
-## Hi there 👋
+## 카페인
 
 ### [저장소](https://github.com/woowacourse-teams/2023-car-ffeine)
+
+### [카페인 홈페이지](https://carffe.in)
 
 <!--
 
