@@ -1,16 +1,12 @@
-## 카페인
+# [카페인 홈페이지](https://carffe.in)
 
-### [저장소](https://github.com/woowacourse-teams/2023-car-ffeine)
 
-### [카페인 홈페이지](https://carffe.in)
+### [카페인 팀 블로그](https://car-ffeine.github.io/archive)
+### [GitHub 저장소](https://github.com/woowacourse-teams/2023-car-ffeine)
+#### [카페인 개발 홈페이지](https://dev.carffe.in)
 
-<!--
+---
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+#### [카페인 디자인 시스템](?)
+#### [카페인 데이터 생성기](https://github.com/car-ffeine/car-ffeine-data-generator)
+#### [카페인 어드민 페이지](https://github.com/car-ffeine/admin)
